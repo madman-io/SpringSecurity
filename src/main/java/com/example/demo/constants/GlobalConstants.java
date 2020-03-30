@@ -2,9 +2,6 @@ package com.example.demo.constants;
 
 /**
  * 全局常量
- *
- * @author tingxi
- * @date 2019-08-07
  */
 public class GlobalConstants {
     /**
