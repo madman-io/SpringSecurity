@@ -1,0 +1,5 @@
+Application Version: ${demo.version}
+Spring Boot Version: ${spring-boot.version}
+********************************************************************
+***                       Spring Security Test                   ***
+********************************************************************
