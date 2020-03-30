@@ -18,11 +18,6 @@ import org.springframework.security.core.AuthenticationException;
 import org.springframework.security.web.authentication.SimpleUrlAuthenticationFailureHandler;
 import org.springframework.stereotype.Component;
 
-/**
- * @author xinan.zf
- * @version 1.0.0
- * @date 2019/7/7 10:35 AM
- */
 @Component
 public class ParkAuthenticationFailureHandler extends SimpleUrlAuthenticationFailureHandler {
 
